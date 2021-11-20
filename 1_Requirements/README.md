@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # **Requirements**
 
 **Introduction**
@@ -29,7 +28,9 @@
 **Features:**
 
 1.Can remotely access for 24 x 7.
+
 2.Protected with password.
+
 3.Easy to operate.
 ****
 **Defining Our System**
@@ -83,6 +84,4 @@ The line man send the password to the SIM inserted in the GSM module.Arduino rea
 |LLR-1-HLR-2|Gets the text(Char) SMS of the specific line to check the status and replies back with the text(Char) SMS.
 |LLR-1-HLR-3|Stores the incoming and outgoing SMS in the Stack.|
 
-=======
->>>>>>> 56dac35775c6480685aa6715789e90e162d0d5ec
 
