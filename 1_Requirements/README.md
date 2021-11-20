@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **Requirements**
 
 **Introduction**
@@ -84,4 +85,6 @@ The line man send the password to the SIM inserted in the GSM module.Arduino rea
 |LLR-1-HLR-2|Gets the text(Char) SMS of the specific line to check the status and replies back with the text(Char) SMS.
 |LLR-1-HLR-3|Stores the incoming and outgoing SMS in the Stack.|
 
+=======
+>>>>>>> 8aa4c7352c77ea13f3b2caeab9cb3538001b817a
 
