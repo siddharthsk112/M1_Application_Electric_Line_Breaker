@@ -72,11 +72,11 @@ The line man send the password to the SIM inserted in the GSM module.Arduino rea
 
 **High Level Requirements:**
 
-**1. Electric line breaker which will act according to the lineman's command.
+1. Electric line breaker which will act according to the lineman's command.
 
 2.Can check the status of the particular electric line.
 
-3.Can record the history of, Who accessed the electric lines and can give access to certain person, Which increases the security.**
+3.Can record the history of, Who accessed the electric lines and can give access to certain person, Which increases the security.
 
 **Low level Requirements:**
 | Id             |   Description |
