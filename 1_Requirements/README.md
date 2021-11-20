@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # **Requirements**
 
 **Introduction**
@@ -74,7 +73,9 @@ The line man send the password to the SIM inserted in the GSM module.Arduino rea
 **High Level Requirements:**
 
 **1. Electric line breaker which will act according to the lineman's command.
+
 2.Can check the status of the particular electric line.
+
 3.Can record the history of, Who accessed the electric lines and can give access to certain person, Which increases the security.**
 
 **Low level Requirements:**
@@ -85,6 +86,4 @@ The line man send the password to the SIM inserted in the GSM module.Arduino rea
 |LLR-1-HLR-2|Gets the text(Char) SMS of the specific line to check the status and replies back with the text(Char) SMS.
 |LLR-1-HLR-3|Stores the incoming and outgoing SMS in the Stack.|
 
-=======
->>>>>>> 8aa4c7352c77ea13f3b2caeab9cb3538001b817a
 
