@@ -1,35 +1,8 @@
 # M1_Application_Electric_Line_Breaker
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/ce7f936c962745b4bf3855132f620fba)](https://app.codacy.com/gh/siddharthsk112/M1_Application_Electric_Line_Breaker?utm_source=github.com&utm_medium=referral&utm_content=siddharthsk112/M1_Application_Electric_Line_Breaker&utm_campaign=Badge_Grade_Settings)
-
-Project: Electric Line Breaker
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # BADGES
-
-
-<!--- | Unit Testing |
-|--------| 
-[![C/C++ CI UnitTesting](https://github.com/Janevj-05/M1_Application_Parking-Management-System/actions/workflows/unit_testing.yml/badge.svg)](https://github.com/Janevj-05/M1_Application_Parking-Management-System/actions/workflows/unit_testing.yml) !-->
-
-| Cpp Check |
-|--------|
-[![Code Quality - Static Code - Cppcheck](https://github.com/Janevj-05/M1_Application_Parking-Management-System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Janevj-05/M1_Application_Parking-Management-System/actions/workflows/cppcheck.yml)
-
-| Git Inspector |
-|--------|
-[![Contribution Check - Git Inspector](https://github.com/Janevj-05/M1_Application_Parking-Management-System/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Janevj-05/M1_Application_Parking-Management-System/actions/workflows/gitinspector.yml) 
-
-| Codiga Badge |
-|--------|
-![Codiga Badge](https://api.codiga.io/project/29940/score/svg) 
-![Codiga Badge](https://api.codiga.io/project/29940/status/svg)  
-
-| Codacy Badge |
-|--------|
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/4a0a7dba5d37442887c0f819fb71ced6)](https://www.codacy.com/gh/Janevj-05/M1_Application_Parking-Management-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Janevj-05/M1_Application_Parking-Management-System&amp;utm_campaign=Badge_Grade) 
-
+Project: Electric Line Breaker
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
