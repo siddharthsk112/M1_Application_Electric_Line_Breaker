@@ -18,7 +18,8 @@ Project: Electric Line Breaker
 
 
 # Challenges faced and how to overcome it
-1. In this mini project we have to control the electricity with the phone number.If one lineman switched off the electricity for the particular line, Only the particular lineman can turn it ON. We stored the Incoming phone number and checks it while turning the electricity ON.  
+1. In this mini project we have to control the electricity with the phone number.If one lineman switched off the electricity for the particular line, Only the particular lineman can turn it ON. We stored the Incoming phone number and checks it while turning the electricity ON.
+  
 2.Before sending the command Lineman cannot know the current status of the line. We fixed this by storing the command.
 
 # Learning Resources
