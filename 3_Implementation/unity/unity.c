@@ -16,11 +16,7 @@
 /* If omitted from header, declare overrideable prototypes here so they're ready for use */
 #ifdef UNITY_OMIT_OUTPUT_CHAR_HEADER_DECLARATION
 void UNITY_OUTPUT_CHAR(int);
-int getInputChoice(int choice);
-int getLineNumber(int line_no);
-int is_password_matching(int password, int line);
-int getLineOperation(int ch);
-int getLineState(int line);
+void UNITY_OUTPUT_CHAR(int);
 #endif
 
 /* Helpful macros for us to use here in Assert functions */
