@@ -80,13 +80,11 @@ The line man send the password to the SIM inserted in the GSM module.Arduino rea
 3.Can record the history of, Who accessed the electric lines and can give access to certain person, Which increases the security.
 
 **Low level Requirements:**
-| Id             |   Description |
-| -------------- | --------- |
-|LLR-1-HLR-1 |   Gets the command through the SMS, Performs the action and sends the acknowledgment through SMS.
-|LLR-2-HLR-1|Process the commands based on the conditons entered in the Code.
-|LLR-1-HLR-2|Gets the text(Char) SMS of the specific line to check the status and replies back with the text(Char) SMS.
-|LLR-1-HLR-3|Stores the incoming and outgoing SMS in the Stack.|
+| Id             |   Description | Stetus |
+| -------------- | --------- | ------------ |
+|LLR-1-HLR-1 |   Gets the command through the SMS, Performs the action and sends the acknowledgment through SMS. | Implemented |
+|LLR-2-HLR-1|Process the commands based on the conditons entered in the Code. | Implemented |
+|LLR-1-HLR-2|Gets the text(Char) SMS of the specific line to check the status and replies back with the text(Char) SMS. | Implemented |
+|LLR-1-HLR-3|Stores the incoming and outgoing SMS in the Stack. | Implemented |
 
-=======
->>>>>>> 2bf283a32623365f67d4258a37d64086146f9201
 
