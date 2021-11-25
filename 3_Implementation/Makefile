@@ -5,15 +5,15 @@ PROJECT_NAME = Electric_Line_Breaker
 BUILD = build
 
 # All source code files
-SRC = main.c\
+SRC = project_main.c\
 src/feature.c
 
 # All test source files
-TEST_SRC = src/calculator_operations.c\
-test/test_calculator_operations.c\
+TEST_SRC = src/Electric_Line_Breaker.c\
+test/test_Electric_Line_Breaker.c\
 unity/unity.c\
 
-TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
+TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).exe
 
 # All include folders with header files
 INC	= -Iinc\
@@ -25,7 +25,7 @@ INC	= -Iinc\
 INCLUDE_LIBS =
 
 # Project Output name
-PROJECT_OUTPUT = $(BUILD)/$(PROJECT_NAME).out
+PROJECT_OUTPUT = $(BUILD)/$(PROJECT_NAME).exe
 
 # Document files
 DOCUMENTATION_OUTPUT = documentation/html
